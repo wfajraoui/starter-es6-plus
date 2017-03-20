@@ -1,5 +1,5 @@
 # Starter Kit for ES 6, 7, 8 Stage 0 development
-Le point d'entré est index.js
+`index.js` is the entry point.
 
 ## Install
 `npm install`
