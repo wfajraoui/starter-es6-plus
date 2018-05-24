@@ -1,0 +1,10 @@
+.idea
+/app/*
+/config/*
+/examples/*
+/node_modules/*
+.babelrc
+.editorconfig
+.gitignore
+index.html
+webpack.config.js

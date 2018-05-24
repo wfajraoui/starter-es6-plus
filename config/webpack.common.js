@@ -7,6 +7,7 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 module.exports = (DEVELOPMENT, PRODUCTION, PATH) => ({
 	devtool: 'source-map',
 	entry: [
+		'whatwg-fetch'
 	],
 	output: {
 		path: PATH,

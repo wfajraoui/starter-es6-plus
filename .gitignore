@@ -1,0 +1,22 @@
+#EDI
+.idea/*
+.classpath
+.project
+.settings
+*.iml
+.happypack
+build
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled binary
+dist/
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+

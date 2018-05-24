@@ -1,17 +1,19 @@
-# Starter Kit for ES 6, 7, 8 Stage 0 development
-`index.js` is the entry point.
+# Starter Kit pour les développements ES 6, 7, 8 Stage 0
+Le point d'entré est index.js
 
-## Install
+## Installation
 `npm install`
 
-## Execute for development
+## Linter
+`npm run lint`
+
+## Exécution
 * `npm run dev`
-## Build for production
 * `npm run build`
 
-## Export as a library
+## Exporter en tant que librairie
 
-Add this code to the `index.js` file
+Ce code est à mettre dans le `index.js`
 
 ```javascript 
 if(PRODUCTION){
